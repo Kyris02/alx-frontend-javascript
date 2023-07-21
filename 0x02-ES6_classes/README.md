@@ -1,6 +1,6 @@
 # 0x02. ES6 classes
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230721T121115Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4958c25245964deb0839683af4aa1737a17de6d9c68ee9e8ee2ba678f1d9268e">
+<img src="esMeme.jpeg">
 
 ## Resources
 <b>Read or watch:</b>
