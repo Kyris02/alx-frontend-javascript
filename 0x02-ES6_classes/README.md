@@ -69,11 +69,11 @@ in your project directory:
 
 ## Configuration Files
 
-#### <a href="#packagejson" style="color: #E43F26; background-color: #E9E9E9;">package.json</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/master/0x02-ES6_classes/package.json" style="color: #E43F26; background-color: #E9E9E9;">package.json</a>
 
-#### <a href="#babelconfigjs" style="color: #E43F26; background-color: #E9E9E9;">babel.config.js</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/master/0x02-ES6_classes/babel.config.js" style="color: #E43F26; background-color: #E9E9E9;">babel.config.js</a>
 
-#### <a href="#eslintrcjs" style="color: #E43F26; background-color: #E9E9E9;">.eslintrc.js</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/master/0x02-ES6_classes/.eslintrc.js" style="color: #E43F26; background-color: #E9E9E9;">.eslintrc.js</a>
 
 <br>
 
